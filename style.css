@@ -1,0 +1,13 @@
+a{
+    transition: .3s all;
+}
+a:hover{
+    color: red !important
+}
+.new{
+    transition: .3s;
+    cursor: pointer;
+}
+.new:hover{
+    transform: scale(.95);
+}
